@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2c0140-aae6-4d35-bdf9-4360214b54f7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gLmT6JOQ9pHK1hTjeKejWvuklP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software(E)\3d_invographics_v1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.send_by_email">
+    <configuration name="All_kpi_values_added" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3d_invographics_v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/All_kpi_values_added.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cumulative_sales_target" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3d_invographics_v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cumulative_sales_target.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_nsm_box_style" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3d_invographics_v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_nsm_box_style.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_by_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3d_invographics_v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/send_by_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="top5_brand_changed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3d_invographics_v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top5_brand_changed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.send_by_email" />
+        <item itemvalue="Python.All_kpi_values_added" />
+        <item itemvalue="Python.all_nsm_box_style" />
+        <item itemvalue="Python.top5_brand_changed" />
+        <item itemvalue="Python.Cumulative_sales_target" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2c0140-aae6-4d35-bdf9-4360214b54f7" name="Default Changelist" comment="" />
+      <created>1599457839765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599457839765</updated>
+      <workItem from="1599457840906" duration="609000" />
+      <workItem from="1599460153118" duration="2396000" />
+      <workItem from="1599540274314" duration="3002000" />
+      <workItem from="1600142677713" duration="5435000" />
+      <workItem from="1600230447819" duration="541000" />
+      <workItem from="1600241866713" duration="2585000" />
+      <workItem from="1600246121990" duration="6279000" />
+      <workItem from="1600323908660" duration="633000" />
+      <workItem from="1600491146152" duration="1835000" />
+      <workItem from="1600516172156" duration="2681000" />
+      <workItem from="1600574680222" duration="26449000" />
+      <workItem from="1600663757846" duration="4134000" />
+      <workItem from="1600676186492" duration="2609000" />
+      <workItem from="1600682359909" duration="6875000" />
+      <workItem from="1600747591622" duration="11388000" />
+      <workItem from="1600834005358" duration="17559000" />
+      <workItem from="1601095515704" duration="1430000" />
+      <workItem from="1601201369130" duration="109000" />
+      <workItem from="1601209145502" duration="465000" />
+      <workItem from="1601266230191" duration="11863000" />
+      <workItem from="1601352742409" duration="12651000" />
+      <workItem from="1601441168232" duration="651000" />
+      <workItem from="1601455546757" duration="702000" />
+      <workItem from="1601466093228" duration="605000" />
+      <workItem from="1601525503335" duration="151000" />
+      <workItem from="1601526139932" duration="127000" />
+      <workItem from="1601527117359" duration="68000" />
+      <workItem from="1601531992100" duration="1386000" />
+      <workItem from="1601538496825" duration="635000" />
+      <workItem from="1601699346053" duration="153000" />
+      <workItem from="1601701188211" duration="5014000" />
+      <workItem from="1601784467977" duration="413000" />
+      <workItem from="1601789102487" duration="2172000" />
+      <workItem from="1601871747700" duration="23000" />
+      <workItem from="1601871830729" duration="11131000" />
+      <workItem from="1601967364895" duration="4980000" />
+      <workItem from="1601980864829" duration="5114000" />
+      <workItem from="1602045673605" duration="6747000" />
+      <workItem from="1602144116445" duration="80000" />
+      <workItem from="1602737374199" duration="4659000" />
+      <workItem from="1602907960118" duration="1399000" />
+      <workItem from="1602995448602" duration="6783000" />
+      <workItem from="1603081020186" duration="1603000" />
+      <workItem from="1603093410361" duration="3850000" />
+      <workItem from="1603105247621" duration="1145000" />
+      <workItem from="1603171441375" duration="635000" />
+      <workItem from="1603176425945" duration="704000" />
+      <workItem from="1603776187873" duration="2463000" />
+      <workItem from="1603860640091" duration="3617000" />
+      <workItem from="1603951956028" duration="1374000" />
+      <workItem from="1604118673465" duration="1774000" />
+      <workItem from="1604213238203" duration="1239000" />
+      <workItem from="1604293704841" duration="692000" />
+      <workItem from="1605683734797" duration="1070000" />
+      <workItem from="1608040863103" duration="495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$add_customer_names_in_final_pic.coverage" NAME="add_customer_names_in_final_pic Coverage Results" MODIFIED="1600589323635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$Cumulative_sales_target.coverage" NAME="Cumulative_sales_target Coverage Results" MODIFIED="1600600703566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$all_nsm_box_style.coverage" NAME="all_nsm_box_style Coverage Results" MODIFIED="1602047943271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$All_kpi_values_added.coverage" NAME="All_kpi_values_added Coverage Results" MODIFIED="1603003417611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$send_by_email.coverage" NAME="send_by_email Coverage Results" MODIFIED="1605685527462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$aging_days.coverage" NAME="aging_days Coverage Results" MODIFIED="1600584181419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$all_nsm_box_style.coverage" NAME="all_nsm_box_style Coverage Results" MODIFIED="1601364904930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$top5_brand_changed.coverage" NAME="top5_brand_changed Coverage Results" MODIFIED="1601375497226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$send_by_email.coverage" NAME="send_by_email Coverage Results" MODIFIED="1600674575307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$add_all.coverage" NAME="add_all Coverage Results" MODIFIED="1600757256045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$top9_nsm_with_target_and_outstanding.coverage" NAME="top9_nsm_with_target_and_outstanding Coverage Results" MODIFIED="1600848911473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$top5_brand_contribution.coverage" NAME="top5_brand_contribution Coverage Results" MODIFIED="1600578934837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$Cumulative_sales_target.coverage" NAME="Cumulative_sales_target Coverage Results" MODIFIED="1601875115699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$top9_nsm.coverage" NAME="top9_nsm Coverage Results" MODIFIED="1600583147753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$send_by_email.coverage" NAME="send_by_email Coverage Results" MODIFIED="1601796808777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$Cumulative_sales_target.coverage" NAME="Cumulative_sales_target Coverage Results" MODIFIED="1601376727099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$add_customer_names_in_final_pic.coverage" NAME="add_customer_names_in_final_pic Coverage Results" MODIFIED="1601872471709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$add_all.coverage" NAME="add_all Coverage Results" MODIFIED="1601872306216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$add_text_to_cumulative.coverage" NAME="add_text_to_cumulative Coverage Results" MODIFIED="1600600797228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$add_all.coverage" NAME="add_all Coverage Results" MODIFIED="1600599774651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$add_text_to_final_pic.coverage" NAME="add_text_to_final_pic Coverage Results" MODIFIED="1601872395085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$add_aging_values_in_final_pic.coverage" NAME="add_aging_values_in_final_pic Coverage Results" MODIFIED="1601872506669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$top5_brand_contribution.coverage" NAME="top5_brand_contribution Coverage Results" MODIFIED="1600750307707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$add_text_to_final_pic.coverage" NAME="add_text_to_final_pic Coverage Results" MODIFIED="1600587161716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$title_of_cumulative_sales_target.coverage" NAME="title_of_cumulative_sales_target Coverage Results" MODIFIED="1600677342914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$outstanding_pie.coverage" NAME="outstanding_pie Coverage Results" MODIFIED="1600583450926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$add_aging_values_in_final_pic.coverage" NAME="add_aging_values_in_final_pic Coverage Results" MODIFIED="1600590455134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$add_text_to_cumulative.coverage" NAME="add_text_to_cumulative Coverage Results" MODIFIED="1601376819803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$top5_brand_return.coverage" NAME="top5_brand_return Coverage Results" MODIFIED="1600579545561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$brand_contribution_image_change.coverage" NAME="brand_contribution_image_change Coverage Results" MODIFIED="1601275080215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$All_kpi_values_added.coverage" NAME="All_kpi_values_added Coverage Results" MODIFIED="1600601316607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_2$All_kpi_values_added.coverage" NAME="All_kpi_values_added Coverage Results" MODIFIED="1600850448011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1$top5_brand_changed.coverage" NAME="top5_brand_changed Coverage Results" MODIFIED="1600577709593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3d_invographics_v1_3$top5_brand_changed.coverage" NAME="top5_brand_changed Coverage Results" MODIFIED="1602046286456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
